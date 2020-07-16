@@ -1,5 +1,2 @@
-Tic Tac Toe Contributions
+Tic Tac Toe game Java.
 
-Damien 33.3%
-Amanda 33.3%
-Abdul 33.3%
